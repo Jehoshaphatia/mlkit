@@ -23,7 +23,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # Read in the image
-image = mpimg.imread('images/waymo_car.jpg')
+image = mpimg.imread('images/lag4.jpg')
 
 # Print out the image dimensions
 print('Image dimensions:', image.shape)
