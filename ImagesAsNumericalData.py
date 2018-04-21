@@ -14,7 +14,7 @@ import matplotlib.image as mpimg  # for reading in images
 import matplotlib.pyplot as plt
 import cv2  # computer vision library
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # ### Read in and display the image

@@ -11,7 +11,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # ### Read in an image
@@ -20,7 +20,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # Read in the image
-image = mpimg.imread('images/wa_state_highway.jpg')
+image = mpimg.imread('images/lag4.jpg')
 
 plt.imshow(image)
 
